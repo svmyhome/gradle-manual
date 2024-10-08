@@ -4,6 +4,6 @@ public class FirstTest {
         PrintText();
     }
     public static void PrintText() {
-        System.out.println("Hello world !!!");
+        System.out.println("Hello world");
     }
 }
